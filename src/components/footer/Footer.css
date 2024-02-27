@@ -1,0 +1,28 @@
+.king2{
+    width: 940px;
+    margin-top: 120px;
+    margin-left: 200px;
+}
+.footer-block1{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-block1 h1{
+    font-size: 20px;
+    line-height: 21px;
+    color: #485554;
+    margin-left: 18px;
+}
+.footer-block1 p{
+    font-size: 11px;
+    line-height: 19px;
+    color: #485554;
+}
+.footer-block1 button{
+    height: 40px;
+    width: 150px;
+}
+.footer-block2 img{
+    margin-left: 18px;
+    margin-top: 70px;
+}

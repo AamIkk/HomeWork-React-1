@@ -1,0 +1,35 @@
+.king3 {
+    position: relative;
+    text-align: center;
+    margin-top: 120px;
+  }
+  
+  .section-img img {
+    max-width: 100%;
+  }
+  
+  .section-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .section-text h1 {
+    margin: 0;
+    font-size: 2rem;
+    color: #485548;
+    font-size: 30px;
+    line-height: 36px;
+    align-items: center;
+  }
+  
+  .section-text button {
+    margin-top: 1rem;
+    width: 150px;
+    height: 40px;
+  }
+  

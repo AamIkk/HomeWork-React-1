@@ -1,0 +1,47 @@
+.card1{
+    background-image: url('../../assets/WEPLAN.png');
+}
+.card2{
+    background-image: url('../../assets/MANAGE.png');
+}
+.card3{
+    background-image: url('../../assets/WEPUILD.png');
+}
+.card{
+    width: 140px;
+    height: 240px;
+    color: white;
+    margin-left: 50px;
+}
+.history-cards{
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.history{
+    display: flex;
+    width: 80%;
+    margin-left: 290px;
+}
+.history-text{
+    margin-top: 50px;
+}
+.king{
+    margin-top: 50px;
+    text-align: center;
+}
+.king h1{
+    font-size: 18px;
+    line-height: 21px;
+    color: #48555B;
+}
+.history-text-title{
+    font-size: 20px;
+    line-height: 23px;
+}
+.history-text p{
+    font-size: 12px;
+    line-height: 23px;
+    color: #48555B;
+}

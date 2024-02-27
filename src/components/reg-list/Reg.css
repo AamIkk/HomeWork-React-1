@@ -1,0 +1,16 @@
+.reg-block{
+    display: flex;
+    justify-content: space-around;
+    background-color: #171819;
+    color: white;
+    width: 1296px;
+}
+.reg-block h1{
+    font-size: 22px;
+    line-height: 25px;
+    margin-top: 30px;
+}
+.reg-block input{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
